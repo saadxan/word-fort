@@ -32,9 +32,9 @@ class App extends React.Component {
           .then(response => response.json())
           .then(data => {
               console.log(data);
-              if (data.length === undefined) {
+              if (data.length === undefined)
                   return this.fetchWordEntry("erroneous");
-              }
+
               this.lesson.current.setupWordLesson(data);
           })
   }
