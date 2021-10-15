@@ -5,7 +5,6 @@
 body {
     background-image: url("./assets/background.png");
     background-repeat: no-repeat;
-
     color: whitesmoke;
 }
 
@@ -31,7 +30,6 @@ body {
     background-color: whitesmoke;
     color: dimgray;
     max-width: 30vmax;
-    opacity: 90%;
 }
 
 @media only screen and (max-width: 740px) {
