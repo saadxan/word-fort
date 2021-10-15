@@ -1,0 +1,67 @@
+* {
+    font-family: Chalkduster, "Marker Felt", fantasy;
+}
+
+body {
+    background-image: url("./assets/background.png");
+    background-repeat: no-repeat;
+
+    color: whitesmoke;
+}
+
+#titleLabel {
+    margin: 3vmin;
+}
+
+#miscLabels {
+    margin-right: 3vmin;
+    text-align: right;
+}
+
+#wordSearcher {
+    align-items: center;
+    display: grid;
+    grid-column-gap: 2vmin;
+    grid-template-columns: auto auto 70%;
+    margin-left: 3vmin;
+    margin-right: 3vmin;
+}
+
+#wordSearcher > * {
+    background-color: whitesmoke;
+    color: dimgray;
+    max-width: 30vmax;
+    opacity: 90%;
+}
+
+@media only screen and (max-width: 740px) {
+
+    body {
+        background-image: url("./assets/mobile-background.png");
+        background-size: unset;
+    }
+
+    #wordSearcher {
+        grid-template-columns: 80% auto;
+    }
+
+    #wordSearcher > * {
+        max-width: 70vmin;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+
+    body {
+        background-image: url("./assets/background.png");
+        background-size: unset;
+    }
+}
+
+@media only screen and (min-width: 1920px) {
+
+    body {
+        background-image: url("./assets/background.png");
+        background-size: cover;
+    }
+}
