@@ -1,27 +1,19 @@
 {
   "files": {
-    "main.css": "/word-fort/static/css/main.058f549e.chunk.css",
-    "main.js": "/word-fort/static/js/main.83daba09.chunk.js",
-    "main.js.map": "/word-fort/static/js/main.83daba09.chunk.js.map",
-    "runtime-main.js": "/word-fort/static/js/runtime-main.b7224e27.js",
-    "runtime-main.js.map": "/word-fort/static/js/runtime-main.b7224e27.js.map",
-    "static/css/2.e632214c.chunk.css": "/word-fort/static/css/2.e632214c.chunk.css",
-    "static/js/2.ebe521a9.chunk.js": "/word-fort/static/js/2.ebe521a9.chunk.js",
-    "static/js/2.ebe521a9.chunk.js.map": "/word-fort/static/js/2.ebe521a9.chunk.js.map",
-    "static/js/3.d56ea46b.chunk.js": "/word-fort/static/js/3.d56ea46b.chunk.js",
-    "static/js/3.d56ea46b.chunk.js.map": "/word-fort/static/js/3.d56ea46b.chunk.js.map",
+    "main.css": "/word-fort/static/css/main.914e420d.css",
+    "main.js": "/word-fort/static/js/main.92420fe2.js",
+    "static/js/453.79a1246f.chunk.js": "/word-fort/static/js/453.79a1246f.chunk.js",
+    "static/media/mobile-background.png": "/word-fort/static/media/mobile-background.86902b56c013da8bcfa7.png",
+    "static/media/background.png": "/word-fort/static/media/background.84f5a404d3340a342eba.png",
+    "static/media/bootstrap-icons.woff?": "/word-fort/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/word-fort/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/word-fort/index.html",
-    "static/css/2.e632214c.chunk.css.map": "/word-fort/static/css/2.e632214c.chunk.css.map",
-    "static/css/main.058f549e.chunk.css.map": "/word-fort/static/css/main.058f549e.chunk.css.map",
-    "static/js/2.ebe521a9.chunk.js.LICENSE.txt": "/word-fort/static/js/2.ebe521a9.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/word-fort/static/media/mobile-background.86902b56.png",
-    "static/media/bootstrap-icons.css": "/word-fort/static/media/bootstrap-icons.5747cea3.woff"
+    "main.914e420d.css.map": "/word-fort/static/css/main.914e420d.css.map",
+    "main.92420fe2.js.map": "/word-fort/static/js/main.92420fe2.js.map",
+    "453.79a1246f.chunk.js.map": "/word-fort/static/js/453.79a1246f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7224e27.js",
-    "static/css/2.e632214c.chunk.css",
-    "static/js/2.ebe521a9.chunk.js",
-    "static/css/main.058f549e.chunk.css",
-    "static/js/main.83daba09.chunk.js"
+    "static/css/main.914e420d.css",
+    "static/js/main.92420fe2.js"
   ]
 }
