@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <p align="center">
-    A full-stack responsive web application that provides comprehensive definition of English words.
+    A responsive web application that provides comprehensive definition of English words.
     <br />
     <br />
     <br />
@@ -48,28 +48,8 @@ Here are the languages, tools, and frameworks used for the project.
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are integral to the open source community and are the reasons why it's so awesome. If you would like to contribute to this project, you can by: 
-
-1. Fork the Project
-2. Create a Feature Branch `git checkout -b new-feature`
-3. Add files `git add .`
-4. Commit Changes `git commit -m 'msg'`
-5. Push to Origin `git push -u origin new-feature`
-6. Open a Pull Request
-
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* [Example](https://www.example.com)
